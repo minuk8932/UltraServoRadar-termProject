@@ -1,9 +1,9 @@
 # UltraServoRadar
 서울과학기술대학교 손일수 교수님 IoT 팀 프로젝트 - 초음파 센서 레이더<br>
 Arduino와 Processing을 통해 구현 후 실행한 결과<br>
-![](https://github.com/minuk8932/UltraServoRadar/blob/master/radar/ArduinoRadarProj.gif)
+![](https://github.com/minuk8932/UltraServoRadar-termProject/blob/master/radar/ArduinoRadarProj.gif)
 <br>
-[여기](https://github.com/minuk8932/UltraServoRadar/blob/master/radar/ArduinoRadarProj.mov)를 누르시면 동영상 원본을 다운로드하실 수 있습니다.
+[여기](https://github.com/minuk8932/UltraServoRadar-termProject/blob/master/radar/ArduinoRadarProj.mov)를 누르시면 동영상 원본을 다운로드하실 수 있습니다.
 <br><br>
 
 # 사용 장비
@@ -14,7 +14,7 @@ Arduino와 Processing을 통해 구현 후 실행한 결과<br>
 <br><br>
 
 # 설계도
-![](https://github.com/minuk8932/UltraServoRadar/blob/master/radar/blueprint.png)
+![]()
 ##### 설계도면 출처 : http://workshopweekend.net/arduino/labs/many-ways-to-blink-4 ######
 <br><br>
 
