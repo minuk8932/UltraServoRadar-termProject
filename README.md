@@ -14,6 +14,7 @@ Arduino와 Processing을 통해 구현 후 실행한 결과<br>
 <br><br>
 
 # 설계도
+- 해당 사이트의 설계도면 이미지 사용문의에 대한 답장이 아직 오지 않아 링크로 대체합니다.
 ![]()
 ##### 설계도면 출처 : http://workshopweekend.net/arduino/labs/many-ways-to-blink-4 ######
 <br><br>
